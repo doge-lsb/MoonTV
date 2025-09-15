@@ -164,11 +164,11 @@
     "qgyouzhiziyuanku": {
       "api": "https://api.yzzy-api.com/inc/api_mac10_all.php",
       "name": "优质资源库"
-    }，
+    },
     "qgtaopian": {
       "api": "https://taopianapi.com/cjapi/mc10/vod/json.html",
       "name": "淘片资源网"
-    }，
+    },
     "qguku": {
       "api": "https://api.ukuapi88.com/api.php/provide/vod/?ac=list",
       "name": "U酷资源网"
@@ -188,11 +188,11 @@
     "qgsenlin": {
       "api": "https://slapibf.com/api.php/provide/vod/?ac=list",
       "name": "森林资源"
-    }，
+    },
     "qgnaixiangxiang": {
       "api": "https://naixxzy.com/api.php/provide/vod/?ac=list",
       "name": "奶香香资源站"
-    }，
+    },
     "qgshayu": {
       "api": "https://shayuzy5.com/api.php/provide/vod/",
       "name": "鲨鱼资源"
